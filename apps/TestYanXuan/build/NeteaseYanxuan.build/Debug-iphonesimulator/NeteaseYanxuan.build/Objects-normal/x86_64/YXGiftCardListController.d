@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Modules/GiftCard/YXGiftCardListController.m \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Modules/GiftCard/YXGiftCardListController.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/CommonViewController/UIViewController+YXNavigationBar.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Models/GiftCard/YXGiftCardModel.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Modules/GiftCard/YXGiftCardInfoView.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Modules/GiftCard/YXGiftCardListNoDataTipCell.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/CommonView/UIView+YXLoading.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/CommonView/YXControllerLoadingView.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/CommonView/NTESNBActivityIndicatorView.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Modules/GiftCard/YXGiftCardCell.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Requests/GiftCard/YXGiftCardListRequest.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Requests/YXWzpBaseRequest.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/RKMappingResult+YX.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Models/YXNetworkStatusModel.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Models/GiftCard/YXGiftCardListResponseModel.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Models/GiftCard/YXGiftCardCheckAddStatusResponseModel.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Requests/GiftCard/YXGiftCardCheckAddStatusRequest.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/CommonView/YXRefreshView.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Modules/GiftCard/YXGiftCardAddDialog.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Modules/GiftCard/YXGiftCardForceUpgradeDialog.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Requests/GiftCard/YXGiftCardAddRequest.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Models/GiftCard/YXGiftCardAddResponseModel.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/AppDelegate/AppDelegate+Route.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/AppDelegate/AppDelegate.h

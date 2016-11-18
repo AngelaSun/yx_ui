@@ -1,0 +1,11 @@
+
+//
+//  HTDebug.xcconfig
+//  HTConfigDemo
+//
+#include "Pods/Target Support Files/Pods/Pods.debug.xcconfig"
+#include "Share.xcconfig"
+XC_DISPLAY_NAME = 网易严选
+
+XC_MODE = DEBUG
+

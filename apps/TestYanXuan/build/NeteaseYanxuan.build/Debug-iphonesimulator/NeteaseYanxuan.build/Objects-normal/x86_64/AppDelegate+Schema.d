@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/AppDelegate/AppDelegate+Schema.m \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/AppDelegate/AppDelegate+Schema.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/AppDelegate/AppDelegate.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/libs/LoginShareSDK/YXApi.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/libs/LoginShareSDK/YXApiObject.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/libs/LoginShareSDK/WXApi.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/libs/LoginShareSDK/WXApiObject.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/libs/LoginShareSDK/TencentOpenAPI.framework/Headers/QQApiInterface.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/libs/LoginShareSDK/TencentOpenAPI.framework/Headers/QQApiInterfaceObject.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/libs/AliPay/AlipaySDK.framework/Headers/AlipaySDK.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/libs/AliPay/AlipaySDK.framework/Headers/APayAuthInfo.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/AppDelegate/ThirdPartyDelegate/YXWXApiDelegate.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/AppDelegate/ThirdPartyDelegate/YXWeiboDelegate.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/AppDelegate/ThirdPartyDelegate/YXYixinDelegate.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/AppDelegate/ThirdPartyDelegate/YXQQApiDelegate.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Modules/Main/HTTabbarController.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Models/YXCategoryL1Model.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Models/YXCategoryL2Model.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Models/YXCategoryItemModel.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/CommonUtils/FoudationCategory/NSString+NEKits.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/CommonViewController/YXWebViewController.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/CommonViewController/YXWebViewLoadingView.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/AppDelegate/YXLaunchFinishedOperationQueue.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/CommonUtils/FoudationCategory/NSArray+UtilityExtensions.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/AppDelegate/AppDelegate+Route.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Modules/Payment/YXPay.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/libs/LoginShareSDK/TencentOpenAPI.framework/Headers/TencentOAuth.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/libs/LoginShareSDK/TencentOpenAPI.framework/Headers/sdkdef.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/libs/LoginShareSDK/TencentOpenAPI.framework/Headers/TencentOAuthObject.h

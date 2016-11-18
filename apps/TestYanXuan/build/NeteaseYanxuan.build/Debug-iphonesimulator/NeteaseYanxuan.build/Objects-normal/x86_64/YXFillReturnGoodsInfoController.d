@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Modules/CommodityOrder/ReturnGoods/YXFillReturnGoodsInfoController.m \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Modules/CommodityOrder/ReturnGoods/YXFillReturnGoodsInfoController.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/CommonViewController/UIViewController+YXNavigationBar.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Modules/CommodityOrder/ReturnGoods/YXFillReturnInfoSelReasonCell.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/CommonView/YXTableViewCell.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Modules/CommodityOrder/ReturnGoods/YXFillReturnInfoReasonDesCell.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Modules/CommodityOrder/ReturnGoods/YXFillReturnInfoPicsCell.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Modules/CommodityOrder/ReturnGoods/YXFillReturnInfoSimpleCell.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Modules/CommodityOrder/ReturnGoods/YXReturnGoodsProgressController.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Models/Return/YXReturnCommitSkuModel.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Requests/Return/YXReturnSelReasonListRequest.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Requests/YXWzpBaseRequest.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/RKMappingResult+YX.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Models/YXNetworkStatusModel.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Models/Return/YXReturnSelReasonModel.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Requests/YXCommitReturnInfoRequest.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Models/Return/YXReturnCommitInfoModel.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/CommonView/YXToastView.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/CommonViewController/UIViewController+YXLoading.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/CommonView/YXControllerLoadingView.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/CommonView/NTESNBActivityIndicatorView.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Modules/CommodityOrder/Comment/YXPersonalCommentTextView.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/CommonView/YXTextView.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/AppDelegate/AppDelegate.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Requests/YXImageUploadRequest.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Models/YXImageUrlModel.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/CommonUtils/FoudationCategory/NSString+NEKits.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Requests/Return/YXReturnDefaultContactRequest.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Models/Return/YXReturnContactModel.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/CommonUtils/FoudationCategory/NSString+Emoji/NSString+YXUtils.h

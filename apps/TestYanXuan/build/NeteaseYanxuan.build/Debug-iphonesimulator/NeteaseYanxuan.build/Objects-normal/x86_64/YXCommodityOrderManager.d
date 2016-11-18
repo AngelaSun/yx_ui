@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Modules/CommodityOrder/YXCommodityOrderManager.m \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Modules/CommodityOrder/YXCommodityOrderManager.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Models/YXCommodityOrderModel.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Models/YXCommodityOrderPackageModel.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Models/YXOrderType.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Models/YXNetworkStatusModel.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Models/YXOrderSubmitResultModel.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Models/YXOrderRepayModel.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Requests/YXPayOrderRequest.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Models/YXPayOrderResultModel.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Modules/Payment/YXPay.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Modules/Login/YXLoginViewController.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Requests/YXDeleteOrderRequest.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Requests/YXWzpBaseRequest.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/RKMappingResult+YX.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Requests/YXCancelOrderRequest.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Requests/YXCommodityOrderSingleRequest.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Models/YXPayCompleteModel.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/libs/AliPay/AlipaySDK.framework/Headers/AlipaySDK.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/libs/AliPay/AlipaySDK.framework/Headers/APayAuthInfo.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/CommonView/YXToastView.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/CommonView/UIKitCategory/UIDevice+NEKits.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Modules/Login/YXLoginManager.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Requests/YXPlatformSignRequest.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Models/YXPlatformSignModel.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/CommonUtils/NEKits/NEMacros.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/Netwok/Requests/YXConfirmDeliveryRequest.h

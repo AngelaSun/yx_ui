@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/CommonUtils/GT/YXGT.m \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/NeteaseYanxuan/Classes/CommonUtils/GT/YXGT.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/GT.embeddedframework/GT.framework/Headers/GT.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/GT.embeddedframework/GT.framework/Headers/GTInitApi.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/GT.embeddedframework/GT.framework/Headers/GTInitApiForOC.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/GT.embeddedframework/GT.framework/Headers/GTParaOutApi.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/GT.embeddedframework/GT.framework/Headers/GTParaOutApiForOC.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/GT.embeddedframework/GT.framework/Headers/GTParaDelegate.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/GT.embeddedframework/GT.framework/Headers/GTHistroyValue.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/GT.embeddedframework/GT.framework/Headers/GTMutableCString.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/GT.embeddedframework/GT.framework/Headers/GTParaInApi.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/GT.embeddedframework/GT.framework/Headers/GTParaInApiForOC.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/GT.embeddedframework/GT.framework/Headers/GTLogApi.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/GT.embeddedframework/GT.framework/Headers/GTLogApiForOC.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/GT.embeddedframework/GT.framework/Headers/GTProfilerApi.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/GT.embeddedframework/GT.framework/Headers/GTProfilerApiForOC.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/GT.embeddedframework/GT.framework/Headers/GTCoreApi.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/GT.embeddedframework/GT.framework/Headers/GTCoreApiForOC.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/GT.embeddedframework/GT.framework/Headers/GTStyleDef.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/GT.embeddedframework/GT.framework/Headers/GTPluginApiForOC.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/GT.embeddedframework/GT.framework/Headers/GTPlugin.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/GT.embeddedframework/GT.framework/Headers/GTPluginViewController.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/GT.embeddedframework/GT.framework/Headers/GTUIViewController.h

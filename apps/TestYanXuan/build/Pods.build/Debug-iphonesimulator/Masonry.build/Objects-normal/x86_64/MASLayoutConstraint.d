@@ -1,0 +1,5 @@
+dependencies: \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/Pods/Masonry/Masonry/MASLayoutConstraint.m \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/Pods/Target\ Support\ Files/Masonry/Masonry-prefix.pch \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/Pods/Masonry/Masonry/MASLayoutConstraint.h \
+  /Users/netease/Desktop/yanxuan_test/yanxuan-ios/Pods/Masonry/Masonry/MASUtilities.h
